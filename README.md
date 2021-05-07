@@ -10,11 +10,11 @@ Particularly, these  tasks can be generally categorized into (1) interlocutor st
 We evaluate MPC-BERT on three downstream tasks including addressee recognition, speaker identification and response selection. 
 Experimental results show that MPC-BERT outperforms previous methods by large margins and achieves new state-of-the-art performance on all three downstream tasks at two benchmarks.
 
-<div align=center><img src="image/result_ addressee_recognition.png" width=50%></div>
+<div align=center><img src="image/result_ addressee_recognition.png" width=80%></div>
 
-<div align=center><img src="image/result_speaker_identification.png" width=50%></div>
+<div align=center><img src="image/result_speaker_identification.png" width=80%></div>
 
-<div align=center><img src="image/result_response_selection.png" width=50%></div>
+<div align=center><img src="image/result_response_selection.png" width=80%></div>
 
 ## Update
 Please keep an eye on this repository if you are interested in our work.
