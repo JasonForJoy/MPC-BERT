@@ -1,5 +1,5 @@
 # MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding
-This repository contains the source code for the _ACL 2021_ paper [MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://arxiv.org/pdf/2106.01541.pdf). Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang. <br>
+This repository contains the source code for the _ACL 2021_ paper [MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://aclanthology.org/2021.acl-long.285.pdf). Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang. <br>
 
 
 ## Introduction
@@ -94,20 +94,21 @@ If you think our work is helpful or use the code, please cite the following pape
 Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang. _ACL (2021)_
 
 ```
-@inproceedings{gu-etal-2021-mpcbert,
- title = "MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding",
+@inproceedings{gu-etal-2021-mpc,
+ title = "{MPC}-{BERT}: A Pre-Trained Language Model for Multi-Party Conversation Understanding",
  author = "Gu, Jia-Chen  and
            Tao, Chongyang  and
            Ling, Zhen-Hua  and
            Xu, Can  and
            Geng, Xiubo  and
            Jiang, Daxin",
- booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP)",
+ booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
  month = aug,
  year = "2021",
  address = "Online",
  publisher = "Association for Computational Linguistics",
- url = "https://www.aclweb.org/anthology/2021.acl-main.1881",
+ url = "https://aclanthology.org/2021.acl-long.285",
+ pages = "3682--3692",
 }
 ```
 
