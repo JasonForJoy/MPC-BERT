@@ -1,6 +1,13 @@
-# MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding
-This repository contains the source code for the _ACL 2021_ paper [MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://aclanthology.org/2021.acl-long.285.pdf). Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang. <br>
+# MPC-BERT & GIFT for Multi-Party Conversation Understanding
+This repository contains the source codes for the following papers:
+- [GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding](https://arxiv.org/pdf/2305.09360.pdf). <br>
+  Jia-Chen Gu, Zhe-Hua Ling, Quan Liu, Cong Liu, Guoping Hu <br>
+  _ACL 2023_ (Code will be released soon) <br>
+  
 
+- [MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://aclanthology.org/2021.acl-long.285.pdf). <br>
+  Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Xiubo Geng, Daxin Jiang <br>
+  _ACL 2021_ <br>
 
 ## Introduction
 Recently, various neural models for multi-party conversation (MPC) have achieved impressive improvements on a variety of tasks such as addressee recognition, speaker identification and response prediction. 
