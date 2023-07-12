@@ -1,6 +1,6 @@
 # MPC-BERT & GIFT for Multi-Party Conversation Understanding
 This repository contains the source codes for the following papers:
-- [GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding](https://arxiv.org/pdf/2305.09360.pdf). <br>
+- [GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding](https://aclanthology.org/2023.acl-long.651.pdf). <br>
   Jia-Chen Gu, Zhe-Hua Ling, Quan Liu, Cong Liu, Guoping Hu <br>
   _ACL 2023_ <br>
   
@@ -128,16 +128,19 @@ If you think our work is helpful or use the code, please cite the following pape
 
 ```
 @inproceedings{gu-etal-2023-gift,
- title = "{GIFT}: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding",
- author = "Gu, Jia-Chen  and
-           Ling, Zhen-Hua  and
-           Liu, Quan  and
-           Liu, Cong  and
-           Hu, Guoping",
- booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
- year = "2023",
- address = "Toronto, Canada",
- publisher = "Association for Computational Linguistics",
+    title = "{GIFT}: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding",
+    author = "Gu, Jia-Chen  and
+      Ling, Zhen-Hua  and
+      Liu, Quan  and
+      Liu, Cong  and
+      Hu, Guoping",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.651",
+    pages = "11645--11658",
 }
 ```
 
